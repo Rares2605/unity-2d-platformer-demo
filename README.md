@@ -2,6 +2,10 @@
 
 A simple 2D platformer prototype built in Unity and C#.
 
+## Gameplay Demo
+
+[(Media/screenshot.png)](https://youtu.be/mVeuOrKVq8M)
+
 ## Features
 
 - Player movement left/right
