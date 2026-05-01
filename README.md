@@ -4,7 +4,9 @@ A simple 2D platformer prototype built in Unity and C#.
 
 ## Gameplay Demo
 
-[(Media/screenshot.png)](https://youtu.be/mVeuOrKVq8M)
+[(Media/screenshot.png)](https://youtu.be/mVeuOrKVq8M) [Watch the gameplay demo]
+
+> Click the image above to watch the gameplay demo.
 
 ## Features
 
