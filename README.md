@@ -7,6 +7,7 @@ A simple 2D platformer prototype built in Unity and C#.
 [(Media/screenshot.png)](https://youtu.be/mVeuOrKVq8M) [Watch the gameplay demo]
 
 > Click the image above to watch the gameplay demo.
+> A short gameplay demo showing movement, coin pickup, enemy damage, health UI, Game Over, restart and Level Complete flow.
 
 ## Features
 
